@@ -7,5 +7,6 @@ public class text1 {
         System.out.println(22);
         System.out.println(44);
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
